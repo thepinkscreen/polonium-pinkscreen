@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: ToxicSonicFan04
-  changes:
-  - message: Added Sink to Chemistry on Box Station!
-    type: Add
-  id: 7887
-  time: '2025-02-01T06:35:36.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34803
 - author: NazrinNya
   changes:
   - message: Flesh Kudzu now contains razorium, making it unsafe to eat.
@@ -4070,3 +4063,13 @@
   id: 9194
   time: '2026-05-15T07:42:44.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/582
+- author: Zintex
+  changes:
+  - message: "Kalibracja trybu secretplus i wi\u0119ksza r\xF3\u017Cnorodno\u015B\u0107\
+      \ w antagonistach"
+    type: Tweak
+  - message: Naprawiono wybieranie gamerule thief w secretplus
+    type: Fix
+  id: 9195
+  time: '2026-05-17T17:46:06.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/584
