@@ -1,15 +1,4 @@
 ﻿Entries:
-- author: Boaz1111
-  changes:
-  - message: 'New Reagent: Coldsauce! It can be made using the Frost Oil from Chilly
-      Peppers, similar to Hotsauce from Capsaicin Oil!'
-    type: Add
-  - message: Coldsauce packets and bottles now contain Coldsauce, instead of Frost
-      Oil.
-    type: Tweak
-  id: 7889
-  time: '2025-02-01T15:20:01.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34458
 - author: Toxic, Nox
   changes:
   - message: Changed Packed armory.
@@ -4073,3 +4062,30 @@
   id: 9196
   time: '2026-05-22T07:09:32.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/583
+- author: Szyszkrzyneczka
+  changes:
+  - message: "Dodano dzia\u0142a strzelaj\u0105ce \u0142adunkami sejsmicznymi [test]"
+    type: Add
+  - message: "Dodano dzia\u0142a strzelaj\u0105ce jak plasma cutter [test]"
+    type: Add
+  - message: "Dodano odkurzacz na materia\u0142y kt\xF3ry przyci\u0105ga rudy do siebie\
+      \ [test]"
+    type: Add
+  - message: "Dodano pud\u0142o przyci\u0105gaj\u0105ce rudy jak torba na rudy (kosztuje\
+      \ 300 bilecik\xF3w g\xF3rniczych i mo\u017Cna j\u0105 montowa\u0107 na odkurzacz)\
+      \ [test]"
+    type: Add
+  - message: "Zmieniono sejsmiczne \u0142adunki by funkcjonowa\u0142y jednocze\u015B\
+      nie jako amunicja"
+    type: Tweak
+  - message: "Studnie grawitacyjne mog\u0105 by\u0107 strojone na okre\u015Blone rzeczy"
+    type: Tweak
+  - message: "Component MagnetPickup mo\u017Ce by\u0107 u\u017Cyty na przedmiotach\
+      \ kt\xF3re nie s\u0105 ubraniami"
+    type: Tweak
+  - message: "Dodano Odzyskowe dzia\u0142a promowe oraz pud\u0142o do przyci\u0105\
+      gania rud do katalogu g\xF3rniczego"
+    type: Tweak
+  id: 9197
+  time: '2026-05-22T07:41:48.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/542
