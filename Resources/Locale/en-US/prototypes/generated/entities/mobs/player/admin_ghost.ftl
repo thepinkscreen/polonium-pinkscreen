@@ -1,6 +1,6 @@
 ent-AdminObserver = admin observer
     .desc = { ent-MobObserverBase.desc }
-    .gender = male
+  .gender = male
 ent-ActionAGhostShowSolar = Solar Control Interface
     .desc = View a Solar Control Interface.
 ent-ActionAGhostShowCommunications = Communications Interface

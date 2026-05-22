@@ -1,3 +1,3 @@
 ent-MobRevenant = revenant
     .desc = A spooky ghostie.
-    .gender = female
+  .gender = female

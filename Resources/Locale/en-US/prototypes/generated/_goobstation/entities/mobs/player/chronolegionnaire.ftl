@@ -1,3 +1,3 @@
 ent-RandomHumanoidSpawnerChronolegioneer = chrono legionnaire
     .desc = { "" }
-    .gender = male
+  .gender = male

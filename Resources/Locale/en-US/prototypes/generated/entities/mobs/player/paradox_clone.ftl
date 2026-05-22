@@ -1,9 +1,9 @@
 ent-MobParadox = space-time paradox
     .desc = A big ball of wibbly wobbly, timey wimey stuff.
-    .gender = male
+  .gender = male
 ent-MobParadoxTimed = { ent-MobParadox }
     .desc = { ent-MobParadox.desc }
-    .gender = male
+  .gender = male
 ent-ParadoxCloneDummy = Paradox Clone
     .desc = { "" }
-    .gender = male
+  .gender = male

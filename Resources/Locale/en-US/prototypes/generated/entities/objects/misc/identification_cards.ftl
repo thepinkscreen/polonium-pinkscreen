@@ -86,18 +86,6 @@ ent-ERTMedicIDCard = ERT medic ID card
     .desc = Green for health.
 ent-ERTSecurityIDCard = ERT security ID card
     .desc = Green for safety.
-ent-JSRLeaderIDCard = identyfikator lidera JSR
-    .desc = { ent-IDCardStandard.desc }
-ent-JSRChaplainIDCard = identyfikator kapłana JSR
-    .desc = { ent-IDCardStandard.desc }
-ent-JSREngineerIDCard = identyfikator inżyniera JSR
-    .desc = { ent-IDCardStandard.desc }
-ent-JSRJanitorIDCard = identyfikator woźnego JSR
-    .desc = { ent-IDCardStandard.desc }
-ent-JSRMedicIDCard = identyfikator medyka JSR
-    .desc = { ent-IDCardStandard.desc }
-ent-JSRSecurityIDCard = identyfikator ochrony JSR
-    .desc = { ent-IDCardStandard.desc }
 ent-MusicianIDCard = musician ID card
     .desc = Musically inspiring.
 ent-CentcomIDCardDeathsquad = death squad ID card
@@ -153,3 +141,21 @@ ent-CommandMaidIDCard = command maid ID card
     .desc = Seems squeaky clean.
 ent-PartyMakerIDCard = party maker ID card
     .desc = Let's part-ay!
+
+ent-JSRLeaderIDCard = identyfikator lidera JSR
+    .desc = { ent-IDCardStandard.desc }
+
+ent-JSRChaplainIDCard = identyfikator kapłana JSR
+    .desc = { ent-IDCardStandard.desc }
+
+ent-JSREngineerIDCard = identyfikator inżyniera JSR
+    .desc = { ent-IDCardStandard.desc }
+
+ent-JSRJanitorIDCard = identyfikator woźnego JSR
+    .desc = { ent-IDCardStandard.desc }
+
+ent-JSRMedicIDCard = identyfikator medyka JSR
+    .desc = { ent-IDCardStandard.desc }
+
+ent-JSRSecurityIDCard = identyfikator ochrony JSR
+    .desc = { ent-IDCardStandard.desc }

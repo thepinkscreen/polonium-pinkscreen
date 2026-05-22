@@ -8,8 +8,6 @@ ent-NuclearReactorMeltdown = { ent-BaseNuclearReactor }
     .desc = { ent-BaseNuclearReactor.desc }
 ent-NuclearReactorSmall = small nuclear reactor
     .desc = { ent-BaseNuclearReactor.desc }
-ent-ReactorComponent = komponent reaktora
-    .desc = { "" }
 ent-NuclearDebrisChunk = nuclear debris
     .desc = { ent-BaseItem.desc }
 ent-ReactorFlowArrow = { "" }
@@ -17,4 +15,7 @@ ent-ReactorFlowArrow = { "" }
 ent-ReactorSmallFlowArrow = { ent-ReactorFlowArrow }
     .desc = { ent-ReactorFlowArrow.desc }
 ent-ReactorGasPipe = { "" }
+    .desc = { "" }
+
+ent-ReactorComponent = komponent reaktora
     .desc = { "" }

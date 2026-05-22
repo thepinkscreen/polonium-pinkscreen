@@ -13,3 +13,5 @@ ent-UniformScrubsColorBlueSleeveless = niebieska szata bez rękawów
 
 ent-UniformScrubsColorBlackSleeveless = czarna szata bez rękawów
     .desc = Czarna, groźnie wyglądająca szata noszona przez koronerów. Rękawy tylko przeszkadzały.
+
+

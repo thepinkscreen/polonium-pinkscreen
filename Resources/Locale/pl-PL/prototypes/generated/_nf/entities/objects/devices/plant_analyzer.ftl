@@ -4,3 +4,7 @@ ent-BasePlantAnalyzer = analizator roślin
 ent-PlantAnalyzerDebug = { ent-BasePlantAnalyzer }
     .suffix = Debug
     .desc = { ent-BasePlantAnalyzer.desc }
+
+
+
+

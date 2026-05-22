@@ -3,3 +3,7 @@ ent-FoodSnackKabanosy = kabanosy neo-tarczyńskie
 
 ent-FoodPacketKabanosyTrash = opakowanie po kabanosach
     .desc = Aż mi smutno, że się skończyły.
+
+
+
+
