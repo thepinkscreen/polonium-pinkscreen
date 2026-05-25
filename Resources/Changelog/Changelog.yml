@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Tayrtahn
-  changes:
-  - message: Ghosts and anomaly cores no longer jitter when starting to follow a target.
-    type: Fix
-  id: 7892
-  time: '2025-02-02T01:38:03.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34797
 - author: DieselMohawk
   changes:
   - message: Renamed ablative shield to laser shield
@@ -4089,3 +4082,10 @@
   id: 9199
   time: '2026-05-25T10:01:38.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/597
+- author: Zintex
+  changes:
+  - message: "Mapa na bardzo niski pop, Gwiazda \u015Amierci, powraca!"
+    type: Add
+  id: 9200
+  time: '2026-05-25T10:33:26.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/596
