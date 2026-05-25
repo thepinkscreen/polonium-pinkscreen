@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Minty642
-  changes:
-  - message: Added Gold and Silver Solidification, just mix with frost oil.
-    type: Add
-  id: 7891
-  time: '2025-02-02T01:00:32.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33239
 - author: Tayrtahn
   changes:
   - message: Ghosts and anomaly cores no longer jitter when starting to follow a target.
@@ -4089,3 +4082,10 @@
   id: 9198
   time: '2026-05-22T17:00:24.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/592
+- author: Nikita_pl
+  changes:
+  - message: "Naprawiono ERROR zamiast sprite'u \u017Cabki (sorki)"
+    type: Fix
+  id: 9199
+  time: '2026-05-25T10:01:38.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/597
