@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Spacemann
-  changes:
-  - message: Added 4 randomized maintenance rooms to in Convex station. These will
-      change every round with a different layout.
-    type: Add
-  id: 7899
-  time: '2025-02-04T22:58:30.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34866
 - author: Winkarst-cpu
   changes:
   - message: Observers now have a personal point light and can toggle it.
@@ -4101,3 +4093,13 @@
   id: 9206
   time: '2026-05-28T08:05:46.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/602
+- author: Nikita_pl
+  changes:
+  - message: "Syndykat ze statku \"Instigator\" nie mo\u017Ce ju\u017C wysadzi\u0107\
+      \ stacji - zabrano im kody"
+    type: Remove
+  - message: "Syndykat ze statku \"Instigator\" ma 75 TK na ekip\u0119 zamiast 125"
+    type: Tweak
+  id: 9207
+  time: '2026-05-28T21:05:42.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/604
