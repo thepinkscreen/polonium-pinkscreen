@@ -5,10 +5,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: entity
-  name: Alexis-BOR .30
+  name: Alexis-BOR .50AE
   parent: [BaseItem, BaseGunWieldable, BaseSecurityContraband]
-  id: BORSniperGun
-  description: Najnowszy model snajperki bazowana na BOR 7,62. modyfikowana, żeby mogła używać amunicji .30
+  id: WeaponBORSniperGun
+  description: Najnowszy model snajperki bazowana na BOR 7,62. modyfikowana, żeby mogła używać amunicji .50 AE
   components:
   - type: Sprite
     sprite: _Polonium/Weapons/Guns/Snipers/Bor.rsi
@@ -51,11 +51,11 @@
         whitelistFailPopup: gun-magazine-whitelist-fail
       gun_chamber:
         name: Chamber
-        startingItem: CartridgeLightRifle
+        startingItem: CartridgePistolLarge
         priority: 1
         whitelist:
           tags:
-            - CartridgeLightRifle
+            - CartridgePistolLarge
   - type: ContainerContainer
     containers:
       gun_magazine: !type:ContainerSlot
@@ -65,8 +65,9 @@
   - type: GunRequiresWield
   - type: CursorOffsetRequiresWield
   - type: EyeCursorOffset # Mniejszy dystans bo to nie jest Hristov.
-    maxOffset: 1.5
-    pvsIncrease: 0.15
+    maxOffset: 7.5
+    offsetSpeed: 0.05
+    pvsIncrease: 0.2
   - type: SpeedModifiedOnWield
     walkModifier: 0.8
     sprintModifier: 0.8

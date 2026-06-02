@@ -66795,7 +66795,7 @@ entities:
     - type: Transform
       pos: 31.5,0.5
       parent: 2
-- proto: VisMPSPistol
+- proto: WeaponVisMPSPistol
   entities:
   - uid: 11829
     components:
@@ -66807,7 +66807,7 @@ entities:
     - type: Transform
       pos: -14.625454,20.707024
       parent: 2
-- proto: VisMPSPistolMagazine
+- proto: WeaponVisMPSPistolMagazine
   entities:
   - uid: 8073
     components:

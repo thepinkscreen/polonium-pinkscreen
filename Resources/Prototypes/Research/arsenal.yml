@@ -91,6 +91,8 @@
   - MagazineBoxRifleIncendiary
   - MagazinePistolSubMachineGunTopMountedIncendiary
   - MagazineBoxPistolLargeIncendiary
+  - WeaponVisMPSPistolMagazineIncendiary # Polonium
+  - PMMMachineGunMagazineIncendiary # Polonium
 
 - type: technology
   id: WeaponizedLaserManipulation
@@ -143,6 +145,8 @@
   - MagazinePistolSubMachineGunTopMountedUranium
   - MagazinePistolLargeUranium
   - MagazineBoxPistolLargeUranium
+  - WeaponVisMPSPistolMagazineUranium # Polonium
+  - PMMMachineGunMagazineUranium # Polonium
 
 - type: technology
   id: AdvancedRiotControl
