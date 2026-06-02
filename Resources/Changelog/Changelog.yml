@@ -1,22 +1,4 @@
 ﻿Entries:
-- author: Farrellka
-  changes:
-  - message: Removed the old long ears for human!
-    type: Remove
-  - message: Added more long (elf) ears for human!
-    type: Add
-  id: 7906
-  time: '2025-02-05T16:49:04.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/33572
-- author: keronshb
-  changes:
-  - message: Disabler - decreased fire cost, increased projectile speed.
-    type: Tweak
-  - message: Disabler SMG - decreased fire cost, increased fire rate.
-    type: Tweak
-  id: 7907
-  time: '2025-02-05T23:12:07.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34890
 - author: centcomofficer24
   changes:
   - message: Added a genderqueer pin!
@@ -4104,3 +4086,23 @@
   id: 9213
   time: '2026-06-01T21:40:11.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/613
+- author: Nikita_pl
+  changes:
+  - message: "Dodano bro\u0144 paln\u0105 i energetyczn\u0105 z Mono: karabiny, SMG,\
+      \ LMG, strzelby, snajperki, pistolety oraz lasery na ogniwach"
+    type: Add
+  - message: "Dodano dedykowane ogniwa zasilaj\u0105ce Ashstorm i LRC-21 PPL"
+    type: Add
+  - message: Dodano karabin plazmowy Asakim
+    type: Add
+  id: 9214
+  time: '2026-06-02T08:19:00.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/611
+- author: Zintex
+  changes:
+  - message: "Aktualizacja terra: brakuj\u0105ce role, s\u0142o\u0144ce o\u015Bwietla\
+      \ stacj\u0119, mniej \u015Bwiate\u0142 zewn\u0119trznych"
+    type: Tweak
+  id: 9215
+  time: '2026-06-02T12:14:02.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/614
