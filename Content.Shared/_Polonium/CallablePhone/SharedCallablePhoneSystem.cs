@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Maciej Walendziuk <ozzeusz@gmail.com>
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
 using System.Diagnostics.CodeAnalysis;
 using Content.Shared.Containers.ItemSlots;
 using Content.Shared.Hands;
