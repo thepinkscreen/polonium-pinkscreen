@@ -19,8 +19,8 @@
       mayTransfer: true
       whitelist:
         tags:
-          - CartridgePistolLarge
-      capacity: 5
+          - CartridgeLightRifle
+      capacity: 7
     - type: Item
       size: Small
     - type: ContainerContainer
@@ -41,7 +41,7 @@
 
 - type: entity
   id: BorSniperMagazine
-  name: Magazynek Alexis-BOR (.50 AE)
+  name: Magazynek Alexis-BOR (.30 rifle)
   parent: BorSniperMagazineBase
   components:
     - type: BallisticAmmoProvider
@@ -50,7 +50,7 @@
 - type: entity
   id: BorSniperMagazineEmpty
   parent: BorSniperMagazineBase
-  name: Magazynek Alexis-BOR (.50 AE any)
+  name: Magazynek Alexis-BOR (.30 rifle dowlone)
   suffix: (pusty)
   components:
     - type: BallisticAmmoProvider
@@ -58,24 +58,24 @@
 
 - type: entity
   id: BorSniperMagazinePractice
-  name: Magazynek Alexis-BOR (.50 AE ślepaki)
+  name: Magazynek Alexis-BOR (.30 rifle ślepaki)
   parent: BorSniperMagazineBase
   components:
     - type: BallisticAmmoProvider
-      proto: CartridgePistolLargePractice
+      proto: CartridgeLightRiflePractice
 
 - type: entity
   id: BorSniperMagazineIncendiary
-  name: Magazynek Alexis-BOR (.50 AE samozapalające)
+  name: Magazynek Alexis-BOR (.30 rifle samozapalające)
   parent: BorSniperMagazineBase
   components:
     - type: BallisticAmmoProvider
-      proto: CartridgePistolLargeIncendiary
+      proto: CartridgeLightRifleIncendiary
 
 - type: entity
   id: BorSniperMagazineUranium
-  name: Magazynek Alexis-BOR (.50 AE uranowe)
+  name: Magazynek Alexis-BOR (.30 rifle uranowe)
   parent: BorSniperMagazineBase
   components:
     - type: BallisticAmmoProvider
-      proto: CartridgePistolLargeUranium
+      proto: CartridgeLightRifleUranium
