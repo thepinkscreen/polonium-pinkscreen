@@ -155,4 +155,13 @@ public sealed partial class CallablePhoneComponent : Component
     /// </summary>
     [ViewVariables]
     public EntityUid? BusyToneStream;
+
+    [DataField]
+    public SoundSpecifier? InCallStaticSound;
+
+    /// <summary>
+    /// Server side looping in-call static audio stream for the handset holder
+    /// </summary>
+    [ViewVariables]
+    public EntityUid? InCallStaticStream;
 }
