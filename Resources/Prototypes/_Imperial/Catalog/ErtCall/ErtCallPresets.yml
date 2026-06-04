@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Nikita (Nick) <174215049+nikitosych@users.noreply.github.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 #- type: ertCall
 #  id: Dart-Test-preset
 #  path: "Maps/Imperial/ErtCall/dartTest.yml"
