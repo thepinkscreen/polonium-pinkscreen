@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: YoungThugSS14
-  changes:
-  - message: Gave the SyndieVisitor the free agent mindrole.
-    type: Fix
-  id: 7916
-  time: '2025-02-08T21:16:48.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34836
 - author: lzk228
   changes:
   - message: Straight ally pin added to loadouts and to the Pride-O-Mat.
@@ -4125,3 +4118,18 @@
   id: 9223
   time: '2026-06-04T13:22:53.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/624
+- author: Nikita_pl
+  changes:
+  - message: "Pe\u0142ne polskie t\u0142umaczenie nazw i opis\xF3w jedzenia (posi\u0142\
+      ki, mi\u0119so, warzywa, wypieki, przek\u0105ski, zupy, burgery, taco, makarony,\
+      \ mro\u017Conki, sk\u0142adniki, przyprawy oraz forki)."
+    type: Add
+  - message: "Ujednolicono polskie wpisy w zleceniach cargo z t\u0142umaczeniami w\
+      \ grze, poprawiono terminologi\u0119"
+    type: Tweak
+  - message: "Naprawiono bounty na Sigynate (wcze\u015Bniej b\u0142\u0119dnie wymaga\u0142\
+      o difenhydraminy)."
+    type: Fix
+  id: 9224
+  time: '2026-06-04T15:32:54.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/625
