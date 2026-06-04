@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: lzk228
-  changes:
-  - message: Straight ally pin added to loadouts and to the Pride-O-Mat.
-    type: Add
-  id: 7917
-  time: '2025-02-08T23:02:00.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34977
 - author: Ian321
   changes:
   - message: Seeds can now have paper labels attached to them.
@@ -4133,3 +4126,10 @@
   id: 9224
   time: '2026-06-04T15:32:54.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/625
+- author: Nikita_pl
+  changes:
+  - message: Nowy bwoink!!
+    type: Add
+  id: 9225
+  time: '2026-06-04T17:27:04.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/626
