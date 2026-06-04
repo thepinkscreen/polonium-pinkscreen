@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: sowelipililimute
-  changes:
-  - message: You will no longer be told you need 0H 0M more minutes to play a role
-    type: Fix
-  id: 7914
-  time: '2025-02-08T06:12:59.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34961
 - author: Chaboricks
   changes:
   - message: Changed the sound of paper doors.
@@ -4111,3 +4104,15 @@
   id: 9221
   time: '2026-06-04T06:24:24.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/621
+- author: Nikita_pl
+  changes:
+  - message: "G\u0142\xF3wna odzie\u017C ochrony u\u017Cywa teraz standardowych sprite'\xF3\
+      w zamiast Funky."
+    type: Tweak
+  - message: "Osobna odzie\u017C ochrony z Funky po prostu jako osobne przedmioty."
+    type: Add
+  - message: Kadet nie otrzymuje kamizelki kuloodpornej w loadoucie przy spawnie
+    type: Remove
+  id: 9222
+  time: '2026-06-04T08:33:12.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/623
