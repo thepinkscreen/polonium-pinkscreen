@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Chaboricks
-  changes:
-  - message: Changed the sound of paper doors.
-    type: Tweak
-  id: 7915
-  time: '2025-02-08T07:24:02.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34857
 - author: YoungThugSS14
   changes:
   - message: Gave the SyndieVisitor the free agent mindrole.
@@ -4116,3 +4109,19 @@
   id: 9222
   time: '2026-06-04T08:33:12.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/623
+- author: Nikita_pl
+  changes:
+  - message: "Przet\u0142umaczono uplinki oraz WTH"
+    type: Tweak
+  - message: "Zmieniono skal\u0119 cen w WTH S\u015A"
+    type: Tweak
+  - message: "Dodano EM-72, XLR-556, Asakim, DP-17, DP-40, LWC Orze\u0142 oraz NTSF-HCLM\
+      \ do WTH S\u015A."
+    type: Add
+  - message: "Dodano LWC Orze\u0142 do WTH JSR."
+    type: Add
+  - message: "Zmniejszono szybkostrzelno\u015B\u0107 Vulcana."
+    type: Tweak
+  id: 9223
+  time: '2026-06-04T13:22:53.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/624
