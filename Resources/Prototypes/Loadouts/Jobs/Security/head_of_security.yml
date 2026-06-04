@@ -103,3 +103,9 @@
   id: HeadofSecurityArmorVestSlim
   equipment:
     outerClothing: ClothingOuterArmorBasicSlim
+
+# Shoes
+- type: loadout
+  id: HeadofSecurityFunkyWinterBoots
+  equipment:
+    shoes: ClothingShoesBootsWinterSecFunkyExclusive
