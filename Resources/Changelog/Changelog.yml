@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: rokudara-sen
-  changes:
-  - message: Anchored shuttle console will no longer rotate.
-    type: Fix
-  id: 7920
-  time: '2025-02-09T12:15:44.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/35000
 - author: Boaz1111
   changes:
   - message: Long Bacon Scarf(Lesbian scarf but long) can now be found in the pride-o-mat's
@@ -4134,3 +4127,13 @@
   id: 9227
   time: '2026-06-04T19:59:19.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/628
+- author: Nikita_pl
+  changes:
+  - message: "Dodano SPO dotycz\u0105ce u\u017Cywania telefon\xF3w (w j\u0119zyku\
+      \ polskim)"
+    type: Add
+  - message: "Dodano szum statyczny w tle podczas rozm\xF3w telefonicznych"
+    type: Add
+  id: 9228
+  time: '2026-06-04T20:14:56.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/631
