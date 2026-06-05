@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Vortebo
-  changes:
-  - message: Added Relic station.
-    type: Add
-  id: 7924
-  time: '2025-02-09T23:24:13.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34988
 - author: IProduceWidgets
   changes:
   - message: Pacifists can throw things that break.
@@ -4144,3 +4137,11 @@
   id: 9231
   time: '2026-06-05T13:27:06.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/635
+- author: Zintex
+  changes:
+  - message: "Dodano specjalistyczne wahad\u0142owce JSR in\u017Cynieryjne, sprz\u0105\
+      taj\u0105ce, medyczne, ochrony i szwadronu \u015Bmierci w r\xF3\u017Cnych wymiarach."
+    type: Add
+  id: 9232
+  time: '2026-06-05T15:29:29.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/637
