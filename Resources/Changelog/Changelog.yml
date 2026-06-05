@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Boaz1111
-  changes:
-  - message: Long Bacon Scarf(Lesbian scarf but long) can now be found in the pride-o-mat's
-      hacked inventory!
-    type: Add
-  id: 7921
-  time: '2025-02-09T15:10:11.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34950
 - author: Spacemann
   changes:
   - message: Removed Cog station
@@ -4137,3 +4129,14 @@
   id: 9228
   time: '2026-06-04T20:14:56.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/631
+- author: Nikita_pl
+  changes:
+  - message: "Naprawiono widmowe pociski przelatuj\u0105ce przez \u015Bciany przy\
+      \ w\u0142\u0105czonej predykcji."
+    type: Fix
+  - message: "Naprawiono niewidoczne pociski przy wy\u0142\u0105czonej predykcji w\
+      \ ustawieniach sieci."
+    type: Fix
+  id: 9229
+  time: '2026-06-05T06:30:47.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/633
