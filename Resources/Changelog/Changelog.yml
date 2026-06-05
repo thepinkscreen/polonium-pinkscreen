@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Spacemann
-  changes:
-  - message: Removed Cog station
-    type: Remove
-  id: 7922
-  time: '2025-02-09T21:01:31.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34996
 - author: notquitehadouken
   changes:
   - message: Added loungewear to uniform printer
@@ -4140,3 +4133,14 @@
   id: 9229
   time: '2026-06-05T06:30:47.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/633
+- author: Nikita_pl
+  changes:
+  - message: Pardziej przyjemny poradnik (Guidebook).
+    type: Tweak
+  - message: "T\u0142umaczenie UI poradnika."
+    type: Tweak
+  - message: "T\u0142umaczenie chemii."
+    type: Tweak
+  id: 9230
+  time: '2026-06-05T13:18:13.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/636
