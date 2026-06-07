@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: lzk228
-  changes:
-  - message: Deconstructing disposal pipes will no longer delete all the contents.
-    type: Fix
-  id: 7926
-  time: '2025-02-10T09:05:24.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34986
 - author: themias
   changes:
   - message: Pacified players can no longer attack living creatures with mechs
@@ -4146,3 +4139,30 @@
   id: 9233
   time: '2026-06-06T12:01:10.0000000+00:00'
   url: https://github.com/polonium14/polonium-station/pull/641
+- author: nikitosych
+  changes:
+  - message: "W\u0142asna pula losowania trybu Sekret - po\u0142owa rund spokojna,\
+      \ po\u0142owa aktywniejsza Secret+"
+    type: Add
+  - message: "Z\u0142odziej mo\u017Ce pojawi\u0107 si\u0119 jako dodatkowy antag w\
+      \ Secret+ od 12 graczy"
+    type: Tweak
+  - message: "Samotny nuklearnik mo\u017Ce wylosowa\u0107 si\u0119 na starcie rundy\
+      \ w Secret+"
+    type: Tweak
+  - message: Czarodziej w Secret+ tylko na starcie rundy, nie w midround
+    type: Tweak
+  - message: "Zombie, Blob i Malf AI w Secret+ jako dodatkowi antagowie, nie g\u0142\
+      \xF3wny tryb"
+    type: Tweak
+  - message: Survival+ - epidemia zombie jako rzadki midround od 25 graczy
+    type: Tweak
+  - message: "Dynamic Unforgiving - jedno op\xF3\u017Anione og\u0142oszenie ostrzegawcze\
+      \ w trakcie rundy (~3-4 min po starcie)"
+    type: Add
+  - message: "Dostosowano progi graczy i koszty chaosu wielu event\xF3w pod populacj\u0119\
+      \ ~15-20 os\xF3b"
+    type: Tweak
+  id: 9234
+  time: '2026-06-07T10:16:32.0000000+00:00'
+  url: https://github.com/polonium14/polonium-station/pull/644
