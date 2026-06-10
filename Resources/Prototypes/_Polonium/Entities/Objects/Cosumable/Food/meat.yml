@@ -1,7 +1,7 @@
 - type: entity
   name: parówka
   parent: FoodMeatBase
-  id: FoodMeatParowka
+  id: z
   description: Parówka taka jak z żabki.
   components:
   - type: Tag

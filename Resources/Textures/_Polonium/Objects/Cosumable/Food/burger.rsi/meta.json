@@ -9,6 +9,14 @@
     "states": [
         {
             "name": "hotdog"
+        },
+        {
+            "name": "hotdog-inhand-left",
+            "directions": 4
+        },
+        {
+            "name": "hotdog-inhand-right",
+            "directions": 4
         }
     ]
 }
