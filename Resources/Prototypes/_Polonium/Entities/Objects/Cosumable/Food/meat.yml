@@ -16,6 +16,6 @@
       food:
         reagents:
         - ReagentId: UncookedAnimalProteins
-          Quantity: 3
+          Quantity: 5
         - ReagentId: Fat
           Quantity: 2
